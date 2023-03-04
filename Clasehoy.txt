@@ -1,2 +1,0 @@
- en el día de hoy los temas tratados son:
- que es un sstema de control de versiones 
